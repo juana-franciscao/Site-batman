@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url("assets/batman-fundo2.jpg");
+    background-image: url("assets/fundo6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(54, 29, 11);
@@ -24,6 +24,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(68, 54, 27);
     font-size: xx-large;
-    padding: 50px;
+    padding: 10px;
 }
 
+main section h2 {
+    text-align: center;
+}
