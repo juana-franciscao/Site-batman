@@ -1,9 +1,11 @@
 body {
     background-color: black;
-    background-image: url("assets/fundo6.jpg");
+    background-image: url("assets/fundo1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgb(54, 29, 11);
+    color: rgb(218, 203, 193);
+   background-position: center;
+background-attachment: fixed;
 }
 img {
     height: 400px;
@@ -12,11 +14,13 @@ img {
 }
 
 p {
-    color: rgb(68, 54, 27);
+    color: rgb(218, 203, 193);
 }
 
 footer p{
-    color: rgb(68, 54, 27);  
+    color: rgb(255, 255, 255); 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
 }
 
 h1 {
@@ -30,3 +34,13 @@ h1 {
 main section h2 {
     text-align: center;
 }
+a {
+    color: rgb(250, 176, 188);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
