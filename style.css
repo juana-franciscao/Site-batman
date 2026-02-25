@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url("assets/batman-fundo.jpg");
+    background-image: url("assets/fundo1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(54, 29, 11);
@@ -26,3 +26,4 @@ h1 {
     font-size: xx-large;
     padding: 50px;
 }
+
